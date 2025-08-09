@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrehman0815" alt="abdurrehman0815" /></a> </p>
 
-- 🔭 I’m currently working on [Beatbox -Music](https://arbeatbox.netlify.app/)
+- 🔭 I’m currently working on [Beatbox -Music](https://beatbox.abdurdev.me/)
 
 - 🌱 I’m currently learning **Django,Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://arabdurdev.netlify.app/](https://arabdurdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdurdev.me/](https://abdurdev.me/)
 
 - 📫 How to reach me **abdurrehmanjfama@gmail.com**
 
